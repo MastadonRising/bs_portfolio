@@ -1,0 +1,28 @@
+#page-container{
+     background-image: url(https://images.unsplash.com/photo-1549443442-e981d27df640?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80) ;
+}
+.align{
+   background-color: #4aaaa5;
+   text-align: center;
+   color: white;
+   font-weight: bold;
+   font-size: large;
+   font-family: 'Courier New', Courier, monospace;
+}
+.name_header {
+     background-color: #4aaaa5;
+     height: 100%;
+     display: inline-block;
+     border: solid ;
+     border-width: thin;
+     margin-left: 10%; 
+     text-align: center;
+     padding-top: 12px;
+      }
+#header { 
+     background-color: #ffffff;
+     
+     margin-bottom: 50px;
+     position: relative;
+     height: 50px;
+ }
